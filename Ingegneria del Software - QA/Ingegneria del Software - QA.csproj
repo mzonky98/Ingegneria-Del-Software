@@ -40,6 +40,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Ereditarieta_Multipla\Prova0.cs" />
+        <Compile Include="Esempi\Costruttori.cs" />
+        <Compile Include="Esempi\Esempi.cs" />
         <Compile Include="Passaggio_Parametri\Parametri_IN.cs" />
         <Compile Include="Passaggio_Parametri\Parametri_IN_OUT.cs" />
         <Compile Include="Passaggio_Parametri\Parametri_OUT.cs" />
